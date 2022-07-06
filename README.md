@@ -1,8 +1,8 @@
 # Clash of Clans
 
-Implemented the clash of clans 2d version using python3 using the concepts of OOPS.
+Implemented the clash of clans 2d version in python3 using the concepts of OOPS.
 ## Troops
-For each variety of troop, three troops can be spawned.Each barbarian will have the following attributes:
+For each variety of troop, three troops can be spawned.Each troop will have the following attributes:
 * Damage - the amount of damage it will yield per attack
 * Health - the hitpoints it has - The health of the troop would be depicted by the colour of barbarian … the colour changes from dark to light with a change in health.
 * Movement speed- Number of blocks each troop can go in a single move. 
